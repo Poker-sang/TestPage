@@ -1,0 +1,19 @@
+{
+  "name": "poker-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "Poker",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.63"
+  },
+  "devDependencies": {
+    "naive-ui": "^2.34.4"
+  }
+}
